@@ -1,0 +1,1 @@
+var json_Genbrugsplads_6 = {"type":"FeatureCollection","name":"Genbrugsplads_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":null,"Name":"Hvidovre Genbrugsplads"},"geometry":{"type":"Point","coordinates":[12.4668433,55.6047131]}}]}
